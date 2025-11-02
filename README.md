@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Connect 4 Game in C 🎮
 
 This is a console-based **Connect-4 game** written in C language.  
@@ -36,3 +37,7 @@ The player competes against the computer, and the board updates after every move
    ```bash
    gcc connect4.c -o connect4
  
+=======
+# connect4-c-game
+A console-based Connect-4 game built in C language. Features include a dynamic game board, player vs computer mode, random AI moves, win detection (rows, columns, diagonals), draw condition, and input validation. Fully playable and optimized for any grid size (rows/columns ≥ 4).
+>>>>>>> b29f1530a49fbd6f0f521c048018b3d2cb594d44
